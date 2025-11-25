@@ -12,7 +12,7 @@
 	<atom:link href="https://james-the-obscure.github.io/category/politics-culture/feed" rel="self" type="application/rss+xml" />
 	<link>https://james-the-obscure.github.io/</link>
 	<description>essays on culture, politics and technology</description>
-	<lastBuildDate>Sat, 01 Nov 2025 00:24:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Nov 2025 04:00:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,41 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>THE INSANITY OF AMERICA&#8217;S INSURANCE-BASED HEALTHCARE</title>
+		<link>https://james-the-obscure.github.io/the-insanity-of-americas-insurance-based-healthcare</link>
+		
+		<dc:creator><![CDATA[JtO]]></dc:creator>
+		<pubDate>Wed, 19 Nov 2025 20:31:50 +0000</pubDate>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[politics & culture]]></category>
+		<category><![CDATA[science & medicine]]></category>
+		<guid isPermaLink="false">https://james-the-obscure.github.io/?p=597</guid>
+
+					<description><![CDATA[I could start with some anecdotes about pharmaceutical and medical-procedure prices in the USA, and about much more reasonable prices that I and many others have encountered abroad. But why bother? Every American knows that healthcare-related prices are insane now. This crisis needs no introduction. I should point out, though, since many Americans seem to<p><a class="readmore" href="https://james-the-obscure.github.io/the-insanity-of-americas-insurance-based-healthcare"><span class="arrow-right icon"></span>Read More</a></p>]]></description>
+										<content:encoded><![CDATA[<p>I could start with some anecdotes about pharmaceutical and medical-procedure prices in the USA, and about much more reasonable prices that I and many others have encountered abroad. But why bother? Every American knows that healthcare-related prices are insane now. This crisis needs no introduction.</p>
+<p>I should point out, though, since many Americans seem to have forgotten, that this crisis originated long before the risibly named Affordable Care Act took full effect in 2014 (ostensibly to help fix the situation, although of course it made it even worse). Thus, any enduring solution needs to cover not only the problems the ACA a.k.a Obamacare introduced, but also the more fundamental problems that have been festering for decades.</p>
+<p>Some of the reasons for America’s grossly inflated healthcare prices are obvious, of course. A <a href="https://www.cms.gov/medicare/regulations-guidance/legislation/emergency-medical-treatment-labor-act">law from 1986</a>, for example, forces most hospital emergency departments to provide screening and stabilizing care regardless of patients’ ability to pay—which means that paying customers foot the bill via higher prices. The <a href="https://www.aei.org/carpe-diem/whod-a-thunk-it-a-medical-cartel-doesnt-like-competition/">cartel-like organization of American doctors</a>, and the American tort system with its lottery-like jury awards—the costs of which are, again, passed on to healthcare consumers—have also clearly contributed.</p>
+<p>But there is one feature of American healthcare that towers above all others as a source of high costs. I am referring to <em>health insurance</em>, which generations of Americans have been gaslighted into seeing as a critical necessity.</p>
+<p>Insurance makes sense in principle as a way of covering extreme medical expenses. But American insurers long ago began covering even minor healthcare costs, and that gross overreliance on insurance has allowed the entire structure of healthcare prices to drift ever-upward.</p>
+<p>Insurance inflates prices by inserting profit-making insurers into what should be relatively simple, transparent, cash-on-the-barrel transactions. It erodes buyers’ <a href="https://journals.sagepub.com/doi/10.1177/00222429241282414">sensitivity</a> to cash prices by replacing those prices with streams of smaller premium payments. (<a href="https://james-the-obscure.github.io/financialization-an-economic-malignancy/">Via the same behavioral mechanism</a>, the dominance of credit-based purchasing has lifted the cash prices of houses, cars and higher education.) Employer and government/taxpayer subsidies for these premiums reduce buyers’ sensitivity further by hiding true prices.</p>
+<p>Potentially worst of all is the “moral hazard” of costless consumption that insurance introduces. Imagine an insurancized grocery system in which customers pay for their shopping up to the deductible limit, but thereafter can fill their shopping carts without further cost—what effect do you think this would have on grocery prices?</p>
+<p>Obamacare has worsened these problems with its cost-hiding government subsidies and its mandate that insurers cover pre-existing conditions. The latter rule also has vitiated the fundamental risk-pooling advantage of insurance.</p>
+<p>On the whole, Obamacare seems to have been designed to move the system—in a way that would be hard to reverse—towards the socialized medicine model its architects see as the true ideal. What has really happened, though, is that the US healthcare system has become a worst-of-both-worlds arrangement, in which everyone nominally “has access to health insurance”—but the cost of that access is many, many time higher than it should be. I think it’s important to note as well that the relative impoverishment of the tax-paying, premium-paying Americans who have to foot the bill for the whole thing corresponds to a stupendous windfall on the insurer/provider side.</p>
+<p>That the current system is defended fiercely by its beneficiaries, including not only insurers, hospital chains and Big Pharma, but also politicians who use Obamacare to buy votes, is to be expected. Unfortunately, their gaslighting is made much easier by the “experts” who—with only the <a href="https://www.theatlantic.com/magazine/archive/2009/09/how-american-health-care-killed-my-father/307617/">rarest exceptions</a>—continue to cling tightly to <a href="https://www.wsj.com/opinion/republicans-already-have-an-obamacare-alternative-f1accff2">the assumption that insurance is the only valid basis for modern healthcare.</a></p>
+<p>But as a reality check, consider what would happen if insurance and all other forms of cost-spreading and cost-hiding were <em>banned</em> in healthcare markets, so that patients and healthcare goods and service providers had to revert to simple, open, cash-on-the-barrel transactions. If you run a drug company that currently bills insurers hundreds of thousands of dollars for a course of some drug treatment, or if you run a hospital that has been charging similarly exorbitant amounts for a few days of inpatient care, would you keep your prices up at those levels, <em>where almost none of your customers could now afford them</em>? Of course not—you would now be in a normal, competitive market situation, where survival requires making products and services affordable. And by the way, roughly a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8922991/">million</a> American “medical tourists” every year fly to foreign countries where cash-on-the-barrel payment for private healthcare is still the norm, prices are much lower, and quality of care is often superior.</p>
+<p><strong>A better way</strong></p>
+<p>That part of the solution is obvious, then. But what about Americans who could not afford healthcare even with the drastically lower prices of a de-insurancized, market-based system?</p>
+<p>Until modern developments including Medicare and Medicaid made them largely redundant, charity hospitals were ubiquitous in the US, and often were supported not by government budgets but by private philanthropists and even community funding drives. Some of these hospitals had endowments large enough to keep them going indefinitely without further external funding.</p>
+<p>How much would it cost to convert 20% of US community hospitals—roughly 1,000 of them—to fully endowed, free-care status? The annual operating cost for an average US hospital has been <a href="https://www.statista.com/statistics/1480012/average-operating-expense-for-us-hospitals/">estimated at about $250 million</a>. For a no-frills, 200-bed charity hospital, an estimate of $200 million annually is probably conservative, and could be very excessive if costs come down with the elimination of insurance. In any case, multiplying that $200 million by 1,000, then dividing by a standard 5%-of-endowment-per-year expenditure assumption, suggests endowments totalling $4 trillion. That figure, though it might seem huge, represents only about twice the <em>annual </em>cost of Medicare and Medicaid plus Obamacare subsidies—and of course it is just a tiny fraction of the philanthropic potential of America’s wealthiest.</p>
+<p>Again, if a network of charity hospitals were to be endowed to this extent—or if all hospitals had endowments allowing the same proportion of free care—little or no further support would be needed to keep this charity-care system afloat. Charity hospitals and market hospitals together could replace the current Medicaid, Medicare and Obamacare-subsidy systems, removing entirely those gigantic taxpayer burdens.</p>
+<p>Obviously, some important details would have to be worked out, including how to confine charity care to those who really need it, and how to transition to the new system. But overall and in the long run, it could hardly fail to be a significant improvement over the current arrangement—an arrangement that is not only unreasonably burdensome and stressful, and a major driver of socioeconomic inequality, but also an ever-present reminder to citizens of the inadequacy (thus illegitimacy) of their government and elites.</p>
+<p style="text-align: center;">***</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>FINANCIALIZATION: AN ECONOMIC MALIGNANCY</title>
 		<link>https://james-the-obscure.github.io/financialization-an-economic-malignancy</link>
 		
@@ -392,36 +427,6 @@
 		
 		<enclosure url="https://james-the-obscure.github.io/wp-content/uploads/Manolete-Muerte-1.m4v" length="2145482" type="video/mp4" />
 
-			</item>
-		<item>
-		<title>CULTURE AND ANTI-CULTURE</title>
-		<link>https://james-the-obscure.github.io/culture-and-anticulture</link>
-		
-		<dc:creator><![CDATA[JtO]]></dc:creator>
-		<pubDate>Sun, 22 Nov 2015 07:58:17 +0000</pubDate>
-				<category><![CDATA[politics & culture]]></category>
-		<guid isPermaLink="false">https://james-the-obscure.github.io/?page_id=382</guid>
-
-					<description><![CDATA[Why they hate our freedoms Originally published Nov 22, 2015 It is now routine for Western governments to describe Islamic militants’ attacks on Western civilians as “cowardly.” Unfortunately that description tells us less about the militants than it does about the Western establishment: in particular its tendency towards doublespeak, self-contradiction, and head-in-the-sand ignorance. The acts<p><a class="readmore" href="https://james-the-obscure.github.io/culture-and-anticulture"><span class="arrow-right icon"></span>Read More</a></p>]]></description>
-										<content:encoded><![CDATA[<p><em>Why they hate our freedoms</em></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-121" src="https://james-the-obscure.github.io/wp-content/uploads/freedom-600x439.jpg" alt="" width="600" height="439" srcset="https://james-the-obscure.github.io/wp-content/uploads/freedom-600x439.jpg 600w, https://james-the-obscure.github.io/wp-content/uploads/freedom-600x439-300x220.jpg 300w" sizes="auto, (max-width: 600px) 100vw, 600px" /></p>
-<p><span id="more-382"></span></p>
-<p><span style="color: #ff0000;"><em>Originally published Nov 22, 2015</em></span></p>
-<p>It is now routine for Western governments to describe Islamic militants’ attacks on Western civilians as “cowardly.” Unfortunately that description tells us less about the militants than it does about the Western establishment: in particular its tendency towards doublespeak, self-contradiction, and head-in-the-sand ignorance. The acts of people who willingly die for their beliefs are anything but cowardly.</p>
-<p>The West’s leaders&#8212;showing off a trait of cultural blindness that dates back through Magellan and Columbus&#8212;cannot understand their foes. They cannot accept that a reasonable person could ever loathe the West&#8217;s &#8220;advanced,&#8221; &#8220;progressive&#8221; culture with its compassion for the oppressed and expansive civil liberties. “Don’t those Muslims get that they’re on the wrong side of history?”</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-122" src="https://james-the-obscure.github.io/wp-content/uploads/oppressed.jpg" alt="" width="600" height="300" srcset="https://james-the-obscure.github.io/wp-content/uploads/oppressed.jpg 600w, https://james-the-obscure.github.io/wp-content/uploads/oppressed-300x150.jpg 300w" sizes="auto, (max-width: 600px) 100vw, 600px" /></p>
-<p>No doubt the pagan Romans were as puzzled by the martyrdoms of abstemious early Christians. Why die for a faith that “oppresses” you so?</p>
-<p>The truth to which progressivism blinds the West is that Islam, like any historically normal culture, gives structure and meaning to the lives of its adherents. It does that in part by regulating what they must and must not do. Muslims want that structure and meaning more than they want personal freedom. In that sense, they do not see their culture’s rules as oppressions.</p>
-<p>Indeed many of them would say that the West is the true oppressor, not only because it invades their lands, kills their children, and co-opts their leaders, but also because it exerts a corrosive and pervasive cultural influence. Even in the so-called Islamic world one cannot escape the smug droning of CNN, the licentiousness of Western advertisers, any more than Orwell’s Winston Smith could escape the ubiquitous telescreens and slogans of Big Brother.</p>
-<p>But arguably Western progressivism is not just a culture engaged in the usual competition against other cultures. To the extent that it is about expanding individual liberties at the expense of traditional communal structures and meanings, it might best be described as an <em>anti-culture&#8212;</em>a dissolver of other cultures, not a true culture that can sustain itself in the long run. Its strictures concerning insensitive, politically incorrect speech suggest an attempt to entrench itself with Thou Shalt Not laws&#8212;the sort of thing that ordinary cultures do. But ultimately it doesn&#8217;t have a full and coherent set of the kinds of rules that hold societies together. How could it be a bona fide, logically consistent culture and still be &#8220;multicultural&#8221;? Also, like other forms of materialism (e.g., Marxism), progressivism denies and opposes key aspects of human nature, and thus for that reason too can&#8217;t be expected to last. Human nature is flexible, but has a tendency to snap back violently when pushed too far.</p>
-<p>The evidence of the Western anti-culture’s severe conflict with its human hosts is all around us. There are, most obviously, the adverse reactions from Islamic and other societies whose traditional structures it threatens. There are many blowups too from Islamic and other traditional-society immigrants living in the anti-cultural West. But every few weeks now some native, nominally modern person in a Western country (usually the &#8220;freest&#8221; country, the USA) also goes berserk and starts shooting people. These modern shooters often are unable to articulate why they did what they did&#8212;the anti-culture has taken away their vocabulary for that; they have no equivalent of <em>Allahu Akbar</em>!</p>
-<p>Progressives exploit these atrocities to advance their agenda by blaming &#8220;guns.&#8221; But there were plenty of guns in pre-anticulture America (say, the 1950s) yet there weren&#8217;t all these mass shootings. It seems much more plausible to blame these incidents on progressivism itself, for its dissolution of traditional Western culture has left nearly everyone in the West adrift and alienated to some extent. As in the Muslim world, some will experience that loss of structure and meaning more acutely than others, and will react with rage and despair.</p>
-<p>The mass shooters and their victims are the most visible casualties of this rage and despair. But many thousands of others act it out by harming only themselves, using opioids, alcohol, excessive food, even guns. The mortality <a href="http://www.nytimes.com/2015/11/03/health/death-rates-rising-for-middle-aged-white-americans-study-finds.html?_r=0">statistics </a>are now showing this curious manifestation of societal collapse. Meanwhile the morbidity <a href="http://www.nndc.org/initiatives/task-groups/women-mood-disorders/">statistics </a>reveal a mood and anxiety disorder pandemic among the West’s women&#8212;those lucky women whom modernity has “liberated” from traditional patriarchal oppression.</p>
-<p>How does militant Islam most hurt the people of the modern West? By distracting them from their greater foe, their foe within.</p>
-]]></content:encoded>
-					
-		
-		
 			</item>
 	</channel>
 </rss>
